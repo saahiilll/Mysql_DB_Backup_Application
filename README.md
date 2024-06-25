@@ -6,7 +6,7 @@ Follow these steps to set up and run the backup script:
 
 # Step 1: Clone the Repository
 Clone this repository to your local machine using the following command:
-git clone https://github.com/yourusername/mysql-backup-script.git
+git clone https://github.com/saahiilll/Mysql_DB_Backup_Application.git
 
 # Step 2: Set the System Environment Variable
 Set the system environment variable for the MySQL bin folder with the variable name as PATH. This allows the script to access MySQL commands from any directory.
