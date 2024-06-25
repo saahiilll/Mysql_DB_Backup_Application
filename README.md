@@ -1,1 +1,1 @@
-# MySQL Database Backup Script
+# MySQL Database Backup Application
